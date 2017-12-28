@@ -1,0 +1,12 @@
+28/12/2017 14:49:56 devpinoyLogger Config file loaded !!!
+28/12/2017 14:49:56 devpinoyLogger OR file loaded !!!
+28/12/2017 14:50:00 devpinoyLogger Chrome Launched !!!
+28/12/2017 14:50:04 devpinoyLogger Navigated to : http://www.zoho.com
+28/12/2017 14:50:08 devpinoyLogger Clicking on: loginLink_CSS
+28/12/2017 14:50:09 devpinoyLogger Typing in: email_CSS entered value as Dianne.Lovell@ihsmarkit.com
+28/12/2017 14:50:09 devpinoyLogger Typing in: password_CSS entered value as Password1
+28/12/2017 14:50:09 devpinoyLogger Clicking on: signBtn_CSS
+28/12/2017 14:50:22 devpinoyLogger Clicking on: crmLink_CSS
+28/12/2017 14:50:22 devpinoyLogger Clicking on: accountsTab_CSS
+28/12/2017 14:50:22 devpinoyLogger Clicking on: createAccountBtn_CSS
+28/12/2017 14:50:23 devpinoyLogger Typing in: accountName_CSS entered value as Raman
